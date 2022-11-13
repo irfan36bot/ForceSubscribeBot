@@ -20,7 +20,7 @@ else:
     API_ID = 10956858
     API_HASH = "cceefd3382b44d4d85be2d83201102b7"
     BOT_TOKEN = "5444842438:AAFJqw9wvOmSFox3ABHk6fwhuX7o1iUOwv0"
-    DATABASE_URL = "postgresql://postgres:wKtMEkBSvvtDiVm1fIic@containers-us-west-38.railway.app:7992/railway"
+    DATABASE_URL = "postgres://lnjrloky:Mpx29iR45y-R8d-R_2SRkAa7VMdSCrEw@rosie.db.elephantsql.com/lnjrloky"
     DATABASE_URL = DATABASE_URL.replace("postgres", "postgresql")
     MUST_JOIN = "DS_Botz"
     if MUST_JOIN.startswith("@"):
